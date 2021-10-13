@@ -5,6 +5,7 @@ import org.telegram.telegrambots.meta.api.objects.Update;
 import java.util.Random;
 
 public class BotLogic {
+    //Тимофей сосет хуй
 
     public String formResponse(long chatId, String text) {
         if(text.equals("/start")) {
